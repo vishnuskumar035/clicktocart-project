@@ -1,3 +1,37 @@
 {
-	"cSpell.words": ["awgf", "clicktocart", "flrt"]
+	"cSpell.words": [
+		"awgf",
+		"celerybeat",
+		"clicktocart",
+		"collectstatic",
+		"Connor",
+		"cython",
+		"dmypy",
+		"flrt",
+		"htmlcov",
+		"ipynb",
+		"ipython",
+		"mkdocs",
+		"mypy",
+		"nosetests",
+		"pipenv",
+		"Pipfile",
+		"pybuilder",
+		"pycache",
+		"pyenv",
+		"pyflow",
+		"pypa",
+		"pypackages",
+		"pytest",
+		"pytype",
+		"ropeproject",
+		"Scrapy",
+		"sdist",
+		"Spyder",
+		"spyderproject",
+		"spyproject",
+		"staticfiles",
+		"venv",
+		"webassets"
+	]
 }
