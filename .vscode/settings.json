@@ -32,6 +32,7 @@
 		"spyderproject",
 		"spyproject",
 		"staticfiles",
+		"superadmin",
 		"venv",
 		"webassets"
 	]
